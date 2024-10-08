@@ -9,7 +9,7 @@ create table users(
 );
 
 insert into users values
-	(1,"Ayush","ayush@gmail.com","1221"),
+    (1,"Ayush","ayush@gmail.com","1221"),
     (2,"Joshi","joshi@gmail.com","11111"),
     (3,"Maksood","maksood@gmail.com","12221"),
     (4,"Ankit","hacker@gmail.com","2222");
